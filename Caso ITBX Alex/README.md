@@ -2,8 +2,8 @@
 
 Basado en los datos de la carpeta datos-llamadas hacer un informe que contenga lo siguiente.
 
-1. **Reporte llamadas totales por categoria**
-2. **Reporte llaamdas por agente**
+1. **Reporte llamadas totales por categoria**:Cantidad total de minutops en llamadas contestadas
+2. **Reporte llaamdas por agente**:  Cantidad de total de minutos que utilizo un agente.
 3. **Generar graficos con el comportamiento de los datos**
 4. **Almacenar en documentos csv o excel los reportes o datos relevantes**
 
