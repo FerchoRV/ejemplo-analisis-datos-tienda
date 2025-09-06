@@ -1,2 +1,4 @@
 #ignoramos siempre en proyectos de python la carpeta con el entorno
 _env/    
+# ignorar el documento se seguimiento en local
+Caso ITBX Alex/prueba_code_profe.ipynb
