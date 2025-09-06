@@ -1,0 +1,2 @@
+#ignoramos siempre en proyectos de python la carpeta con el entorno
+_env/    
